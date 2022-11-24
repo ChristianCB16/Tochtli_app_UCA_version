@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Principal">
+        <menu>
+            <item android:id="@+id/mihome"
+                android:icon="@drawable/ic_baseline_format_list_numbered_24"
+                android:title="Inicio">
+            </item>
+            <item android:id="@+id/videos"
+                android:icon="@drawable/ic_baseline_video_library_24"
+                android:title="Material Extra">
+            </item>
+            <item android:id="@+id/audios"
+                android:icon="@drawable/ic_baseline_audiotrack_24"
+                android:title="Audios">
+            </item>
+            <item android:id="@+id/quiz"
+                android:icon="@drawable/ic_baseline_quiz_24"
+                android:title="Examenes">
+            </item>
+            <item android:id="@+id/Cerrar_sesion"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Cerrar Sesión">
+            </item>
+        </menu>
+
+    </item>
+    <!--
+                /|        ,
+              ,///       /|
+             // //     ,///
+            // //     // //
+           // //     || ||
+           || ||    // //
+           || ||   // //
+           || ||  // //
+           || || || ||
+           \\,\|,|\_//
+            \\)\)\\|/
+            )-."" .-(
+           //^\` `/^\\
+          //  |   |  \\
+        ,/_| 0| _ | 0|_\,
+      /`    `"=.v.="`    `\
+     /`    _."{_,_}"._    `\
+     `/`  ` \  |||  / `  `\`
+      `",_  \\=^~^=//  _,"`
+          "=,\'-=-'/,="
+              '- -'
+
+    </item>-->
+
+</menu>

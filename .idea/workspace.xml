@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="314fe2f2-3f07-490e-8622-31f6f071345a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/push-to-checkout.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/objects/pack/pack-7efb06535f9d60fe086f3a4a2b78e6c7998ed8d5.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/objects/pack/pack-7efb06535f9d60fe086f3a4a2b78e6c7998ed8d5.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tochtli_app.git/packed-refs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HyPJrT9EkvSVR6sWOfQ6drrBSR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TochtliApp2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="314fe2f2-3f07-490e-8622-31f6f071345a" name="Changes" comment="" />
+      <created>1669254281206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669254281206</updated>
+    </task>
+    <servers />
+  </component>
+</project>
